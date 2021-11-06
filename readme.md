@@ -1,4 +1,4 @@
-# Intro to node Lab:
+# Intro to Node Lab:
 
 Follow these steps:
 - Install `Node.js` and create a `Node.js ﬁle` called `HelloWorld.js`. This code should create a web server that returns a web page that says “Hey! I can use Node!”. Your web server should listen for HTTP requests on port 3000.
